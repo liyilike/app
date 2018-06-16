@@ -1,1 +1,0 @@
-zipalign -v 4 a.apk androidres.apk
