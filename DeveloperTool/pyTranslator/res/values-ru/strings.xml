@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">WiFi в режиме реального времени диалога</string>
+    <string name="app_sonshou">Отпускай отправки</string>
+    <string name="app_anzhu">Удерживайте запись</string>
+    <string name="app_shuanren">переключение двухместный</string>
+    <string name="app_juyuwang">LAN IP</string>
+    <string name="app_jiaochen">учебник</string>
+    <string name="app_genduo">больше программного обеспечения</string>
+    <string name="app_qiehuan">переключение групповой чат</string>
+    <string name="app_falai">направил один язык информации</string>
+    <string name="app_duorenql">много людей говорили режим</string>
+    <string name="app_zhiduo">1) поддерживает много людей же маршрут по умолчанию wifi домофон, открыть групповой чат программного обеспечения является режим</string>
+    <string name="app_anduo">2) нажмите и Удерживайте клавишу отправить запись запись, отпустил несколько человек</string>
+    <string name="a">3) необходимо открыть функции маршрутизации вещания, не может использовать только двухместный открыть чат</string>
+    <string name="app_shuanlr">двухместный чат / диалога двух человек</string>
+    <string name="app_duifangh">1) вы должны поставить программное обеспечение показывает друг друга и локальной сети IP, сказать друг другу, и заполнить друг с другом IP, с другой стороны, также заполнить ваш IP</string>
+    <string name="app_drql">много людей говорить</string>
+    <string name="app_jyip">Я локальной сети IP</string>
+    <string name="app_ipw">Ip - сети:</string>
+    <string name="app_xhb">модель:</string>
+    <string name="app_csb">изготовитель:</string>
+    <string name="app_dqb">В настоящее время:</string>
+    <string name="app_fzip">Копировать IP</string>
+    <string name="app_qxb">отменить</string>
+    <string name="app_fs">отправить</string>
+    <string name="app_xtts">система подсказок</string>
+    <string name="app_wflj">WiFi соединения аномалия</string>
+    <string name="app_gbb">закрыть</string>
+    <string name="app_wjyw">Я IP: локальной сети</string>
+    <string name="app_dfhexy">друг друга и вам нужно открыть эту страницу, на голову lan ip, сказать друг другу, и заполнить друг с другом IP, с другой стороны, также заполнить ваш IP, затем нажмите переключатель!</string>
+    <string name="app_qhsrlt">переключение двухместный чат</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">WiFi ในการสนทนาในเวลาจริง</string>
+    <string name="app_sonshou">ไปส่ง</string>
+    <string name="app_anzhu">กดค้างไว้ที่บันทึก</string>
+    <string name="app_shuanren">สลับคู่</string>
+    <string name="app_juyuwang">LAN IP</string>
+    <string name="app_jiaochen">กวดวิชา</string>
+    <string name="app_genduo">ซอฟต์แวร์เพิ่มเติม</string>
+    <string name="app_qiehuan">สลับการสนทนากลุ่ม</string>
+    <string name="app_falai">ส่งชิ้นส่วนของข้อมูลภาษา</string>
+    <string name="app_duorenql">แชทแบบหลายผู้ใช้</string>
+    <string name="app_zhiduo">1 ) ที่สนับสนุนหลายเส้นทางเดียวกันของ Wi - Fi เปิดอินเตอร์คอม , ซอฟต์แวร์ที่เริ่มต้นเป็นรูปแบบการสนทนากลุ่ม</string>
+    <string name="app_anduo">กดค้างไว้ที่ปุ่มบันทึกเสียงบันทึกเสียง 2 ) ) ) ) ) ) ) ) ส่งคนมาก</string>
+    <string name="a">3 ) ต้องเปิดวิทยุไม่ได้เปิดเส้นทางการทำงานที่สามารถใช้สำหรับการสนทนา</string>
+    <string name="app_shuanlr">ห้องสนทนา / สองคนสนทนา</string>
+    <string name="app_duifangh">1 ) และอีกฝ่ายหนึ่งที่คุณต้องแสดงซอฟต์แวร์ LAN IP บอกกันเติมกันอีกฝ่ายก็กรอก IP , IP ของคุณ</string>
+    <string name="app_drql">หลายกลุ่มการสนทนา</string>
+    <string name="app_jyip">IP LAN ของฉัน</string>
+    <string name="app_ipw">เครือข่าย IP :</string>
+    <string name="app_xhb">รุ่น :</string>
+    <string name="app_csb">ผู้ผลิต :</string>
+    <string name="app_dqb">ปัจจุบัน :</string>
+    <string name="app_fzip">คัดลอก IP</string>
+    <string name="app_qxb">การยกเลิก</string>
+    <string name="app_fs">ส่ง</string>
+    <string name="app_xtts">พร้อมระบบ</string>
+    <string name="app_wflj">การเชื่อมต่อ WiFi ผิดปกติ</string>
+    <string name="app_gbb">ปิด</string>
+    <string name="app_wjyw">ฉัน LAN IP :</string>
+    <string name="app_dfhexy">ในด้านอื่นๆและคุณจะต้องเปิดหน้านี้บนหัว LAN IP บอกกันกรอก IP อื่นๆที่จะใส่ IP แล้วกดเปลี่ยน ! ! ! ! ! ! !</string>
+    <string name="app_qhsrlt">สลับคู่แชท</string>
+</resources>

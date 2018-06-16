@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">Wifi de dialogue en temps réel</string>
+    <string name="app_sonshou">Lâche d'envoyer</string>
+    <string name="app_anzhu">Maintenez la cassette</string>
+    <string name="app_shuanren">De commutation double</string>
+    <string name="app_juyuwang">Réseau LAN IP</string>
+    <string name="app_jiaochen">L'utilisation de guides</string>
+    <string name="app_genduo">Plus de logiciel</string>
+    <string name="app_qiehuan">Commutation de conversation de groupe</string>
+    <string name="app_falai">Pour envoyer une information de langage</string>
+    <string name="app_duorenql">La foule en mode de conversation</string>
+    <string name="app_zhiduo">1) Soutenir les personnes avec un routage d'intercommunication wifi, le logiciel ouvert par défaut est le mode de conversation de groupe</string>
+    <string name="app_anduo">2) Maintenir une clé d'enregistrement audio, lâche d'envoyer plusieurs personnes</string>
+    <string name="a">3) la demande de routage de l'ouverture de la fonction de diffusion, de ne pas ouvrir peut utiliser le double de conversation</string>
+    <string name="app_shuanlr">Double conversation / dialogue entre deux personnes</string>
+    <string name="app_duifangh">1) vous et l'autre pour le réseau LAN IP de logiciel d'affichage de dire l'autre, remplir l'IP de l'autre côté, de l'autre également remplir votre IP</string>
+    <string name="app_drql">De nombreuses populations de conversation</string>
+    <string name="app_jyip">IP de réseau local ma</string>
+    <string name="app_ipw">Le réseau IP:</string>
+    <string name="app_xhb">Modèle:</string>
+    <string name="app_csb">Fabricant:</string>
+    <string name="app_dqb">Courant:</string>
+    <string name="app_fzip">Copier IP</string>
+    <string name="app_qxb">Annuler</string>
+    <string name="app_fs">Envoyer</string>
+    <string name="app_xtts">Système de guidage</string>
+    <string name="app_wflj">Anomalie de connexion wifi.</string>
+    <string name="app_gbb">Fermer</string>
+    <string name="app_wjyw">De réseau LAN IP mon:</string>
+    <string name="app_dfhexy">Vous et votre partenaire doit ouvrir cette page, le réseau LAN IP sur sa tête de dire l'autre, remplir l'IP de l'autre côté, de l'autre également remplir votre IP, puis transfert!</string>
+    <string name="app_qhsrlt">Conversation de commutation double</string>
+</resources>

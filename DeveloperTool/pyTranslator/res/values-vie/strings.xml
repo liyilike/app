@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">Wifi đối thoại thời gian thực</string>
+    <string name="app_sonshou">Buông ra, gửi</string>
+    <string name="app_anzhu">Giữ âm.</string>
+    <string name="app_shuanren">Chuyển đôi</string>
+    <string name="app_juyuwang">Mạng IP</string>
+    <string name="app_jiaochen">Dùng giáo trình</string>
+    <string name="app_genduo">Nhiều phần mềm</string>
+    <string name="app_qiehuan">Chuyển nhóm.</string>
+    <string name="app_falai">Gửi đến một thông tin ngôn ngữ.</string>
+    <string name="app_duorenql">Nhiều đám đông về chế độ</string>
+    <string name="app_zhiduo">1) hỗ trợ nhiều người cùng một tuyến đường WIFI trực tiếp, phần mềm mở chế độ mặc định là nhóm.</string>
+    <string name="app_anduo">2) giữ phím cuộn băng ghi âm, buông tay gửi nhiều người.</string>
+    <string name="a">3) có chức năng định tuyến mở đài phát thanh, không mở chỉ sử dụng 2 người nói chuyện.</string>
+    <string name="app_shuanlr">Hai người, hai người nói chuyện tán gẫu /</string>
+    <string name="app_duifangh">1) với nhau và anh cần đưa phần mềm hiển thị Lan IP nói với nhau với nhau, địa chỉ IP của điền bằng nhau, điền bằng nhau và các địa chỉ IP</string>
+    <string name="app_drql">Nhiều đám đông.</string>
+    <string name="app_jyip">Tôi lan IP</string>
+    <string name="app_ipw">Mạng IP:</string>
+    <string name="app_xhb">Mô hình:</string>
+    <string name="app_csb">Nhà sản xuất:</string>
+    <string name="app_dqb">Hiện tại:</string>
+    <string name="app_fzip">Chép địa chỉ IP</string>
+    <string name="app_qxb">Hủy bỏ</string>
+    <string name="app_fs">Gửi</string>
+    <string name="app_xtts">Hệ thống gợi ý.</string>
+    <string name="app_wflj">Kết nối WIFI bất thường.</string>
+    <string name="app_gbb">Đóng cửa</string>
+    <string name="app_wjyw">Tôi IP: Lan</string>
+    <string name="app_dfhexy">Nhau và anh cần mở trang này, đầu IP nói với nhau trên mạng của nhau, địa chỉ IP của điền bằng nhau, địa chỉ IP của điền bằng nhau và anh sẽ rung chuyển!</string>
+    <string name="app_qhsrlt">Chuyển 2 người nói chuyện.</string>
+</resources>

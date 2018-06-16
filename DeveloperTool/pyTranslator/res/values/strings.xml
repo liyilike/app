@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">Wifi real time dialogue</string>
+    <string name="app_sonshou">Pine hand</string>
+    <string name="app_anzhu">Hold down the recording</string>
+    <string name="app_shuanren">Switch double</string>
+    <string name="app_juyuwang">LAN IP</string>
+    <string name="app_jiaochen">Use a tutorial</string>
+    <string name="app_genduo">More software</string>
+    <string name="app_qiehuan">Switch group chat</string>
+    <string name="app_falai">Send a language message</string>
+    <string name="app_duorenql">Multi crowd chatting model</string>
+    <string name="app_zhiduo">1) support multiple people with the same routing WIFI intercom, and the software opens by default is a group chat mode</string>
+    <string name="app_anduo">2) hold down the recording button and send a number of people by the pine hand</string>
+    <string name="a">3) the broadcast function should be opened by route, and only two people can be used to chat without opening</string>
+    <string name="app_shuanlr">Double chat / two person dialogues</string>
+    <string name="app_duifangh">1) the other party and you need to tell each other to each other by the LAN IP that the software displays, fill in the other's IP, and fill in your IP.</string>
+    <string name="app_drql">Multi - crowd chat</string>
+    <string name="app_jyip">My LAN IP</string>
+    <string name="app_ipw">IP net:</string>
+    <string name="app_xhb">Model:</string>
+    <string name="app_csb">Manufacturer:</string>
+    <string name="app_dqb">Currently:</string>
+    <string name="app_fzip">Copy IP</string>
+    <string name="app_qxb">cancel</string>
+    <string name="app_fs">Send out</string>
+    <string name="app_xtts">System hints</string>
+    <string name="app_wflj">WIFI connection exception</string>
+    <string name="app_gbb">Close</string>
+    <string name="app_wjyw">My LAN IP:</string>
+    <string name="app_dfhexy">The other side and you need to open this page, the LAN IP on the head to each other to tell each other, fill in the other's IP, the other is also filled with your IP, and then switch!</string>
+    <string name="app_qhsrlt">Switch double chat</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">Wifi 실시간 대화</string>
+    <string name="app_sonshou">손을 놓지 보내기</string>
+    <string name="app_anzhu">누르고 있으면 녹음</string>
+    <string name="app_shuanren">2인용 전환</string>
+    <string name="app_juyuwang">랜 IP</string>
+    <string name="app_jiaochen">사용 과정</string>
+    <string name="app_genduo">더 많은 소프트웨어</string>
+    <string name="app_qiehuan">전환 군 얘기</string>
+    <string name="app_falai">보내 온 한 가지 언어 정보</string>
+    <string name="app_duorenql">많은 사람들이 얘기 모드</string>
+    <string name="app_zhiduo">1) 지원 많은 사람이 같은 라우팅 WIFI 1: 1 토론을 시켰다 소프트웨어 엽니다. 기본값은 군 얘기 모드</string>
+    <string name="app_anduo">2) 키를 누르고 있으면 녹음 녹음, 손을 놓지 보내기 많은 사람</string>
+    <string name="a">3) 필요한 라우팅 켜기 방송 기능을 사용할 수 없는 오픈 더블 대화</string>
+    <string name="app_shuanlr">2인용 대화 / 두 사람은 대화</string>
+    <string name="app_duifangh">1) 상대가 너하고 필요한 그 소프트웨어 표시할 랜 ip 서로 알려 서로 상대방을 위한 IP, 저쪽에서도 채우다, IP</string>
+    <string name="app_drql">많은 사람들이 얘기</string>
+    <string name="app_jyip">내 랜 IP</string>
+    <string name="app_ipw">IP 망:</string>
+    <string name="app_xhb">모델:</string>
+    <string name="app_csb">제조사:</string>
+    <string name="app_dqb">현재:</string>
+    <string name="app_fzip">복사 IP</string>
+    <string name="app_qxb">취소</string>
+    <string name="app_fs">보내기</string>
+    <string name="app_xtts">시스템 프롬프트</string>
+    <string name="app_wflj">WIFI 연결 이상</string>
+    <string name="app_gbb">닫기</string>
+    <string name="app_wjyw">내 랜 IP:</string>
+    <string name="app_dfhexy">상대가 너하고 필요한 책 페이지 열기, 머리 위의 랜 ip 서로 알려 서로 상대방을 위한 IP, 저쪽에서도 채우다, 너 IP 다시 눌러 전환!</string>
+    <string name="app_qhsrlt">전환 2인용 대화</string>
+</resources>

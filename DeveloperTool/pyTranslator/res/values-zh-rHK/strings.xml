@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">Wifi實时對話</string>
+    <string name="app_sonshou">鬆手發送</string>
+    <string name="app_anzhu">按住錄音</string>
+    <string name="app_shuanren">切換雙人</string>
+    <string name="app_juyuwang">局域網IP</string>
+    <string name="app_jiaochen">使用教程</string>
+    <string name="app_genduo">更多軟件</string>
+    <string name="app_qiehuan">切換群聊</string>
+    <string name="app_falai">發來了一條語言資訊</string>
+    <string name="app_duorenql">多人群聊模式</string>
+    <string name="app_zhiduo">1）支持多人同一路由WIFI對講，軟件打開默認是群聊模式</string>
+    <string name="app_anduo">2）按住錄音鍵錄音，鬆手發送多人</string>
+    <string name="a">3）需路由開啟廣播功能，沒開啟只能使用雙人聊天</string>
+    <string name="app_shuanlr">雙人聊天/兩人對話</string>
+    <string name="app_duifangh">1）對方和你需把軟件顯示的局域網ip互相告訴對方，填入對方的IP，對方也填入你的IP</string>
+    <string name="app_drql">多人群聊</string>
+    <string name="app_jyip">我的局域網IP</string>
+    <string name="app_ipw">IP網：</string>
+    <string name="app_xhb">型號：</string>
+    <string name="app_csb">廠商：</string>
+    <string name="app_dqb">當前：</string>
+    <string name="app_fzip">複製IP</string>
+    <string name="app_qxb">取消</string>
+    <string name="app_fs">發送</string>
+    <string name="app_xtts">系統提示</string>
+    <string name="app_wflj">WIFI連接异常</string>
+    <string name="app_gbb">關閉</string>
+    <string name="app_wjyw">我的局域網IP:</string>
+    <string name="app_dfhexy">對方和你需要打開本頁面，把頭上的局域網ip互相告訴對方，填入對方的IP，對方也填入你的IP，再按切換！</string>
+    <string name="app_qhsrlt">切換雙人聊天</string>
+</resources>

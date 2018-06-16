@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">WI - fi o diálogo EM tempo real</string>
+    <string name="app_sonshou">Vamos enviar</string>
+    <string name="app_anzhu">Segure a FITA</string>
+    <string name="app_shuanren">Interruptor DUPLO</string>
+    <string name="app_juyuwang">O IP de rede local</string>
+    <string name="app_jiaochen">Tutorial.</string>
+    <string name="app_genduo">Mais software</string>
+    <string name="app_qiehuan">Mudar de chat de Grupo</string>
+    <string name="app_falai">Para enviar UMA Mensagem de linguagem</string>
+    <string name="app_duorenql">EM modo multi - chat</string>
+    <string name="app_zhiduo">1) suporte multiplayer via wi - fi com um sistema de software de chat de Grupo, O modo de abrir</string>
+    <string name="app_anduo">2) pressione a Tecla enviar gravações de áudio, multi - homem)</string>
+    <string name="a">3) via rádio para abrir a função de abrir um chat, não Pode USAR</string>
+    <string name="app_shuanlr">Um chat e um diálogo entre duas pessoas</string>
+    <string name="app_duifangh">1) você Precisa de outro software de visualização e o LAN IP dizer UNS AOS outros, com outro IP, e outro com o SEU IP</string>
+    <string name="app_drql">Muitas pessoas.</string>
+    <string name="app_jyip">O MEU IP de rede local</string>
+    <string name="app_ipw">IP:</string>
+    <string name="app_xhb">Modelos:</string>
+    <string name="app_csb">Fabricante:</string>
+    <string name="app_dqb">Atuais:</string>
+    <string name="app_fzip">Copie o IP</string>
+    <string name="app_qxb">Cancelar</string>
+    <string name="app_fs">Enviar</string>
+    <string name="app_xtts">Sistema de alertas</string>
+    <string name="app_wflj">Conexão wi - fi anormal</string>
+    <string name="app_gbb">Fechar</string>
+    <string name="app_wjyw">Minha LAN endereço IP público, público número</string>
+    <string name="app_dfhexy">E o outro, você Precisa abrir a página do IP Da LAN, dizendo um Ao outro, com outro IP, e outro com o SEU IP, clique EM mudar!</string>
+    <string name="app_qhsrlt">Interruptor DUPLO.</string>
+</resources>

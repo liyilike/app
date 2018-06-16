@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">Wifiリアルタイム対話</string>
+    <string name="app_sonshou">手を離して送信する</string>
+    <string name="app_anzhu">テープを押す</string>
+    <string name="app_shuanren">ペア切り替え</string>
+    <string name="app_juyuwang">LAN IP</string>
+    <string name="app_jiaochen">テキストを使用する</string>
+    <string name="app_genduo">より多くのソフトウェア</string>
+    <string name="app_qiehuan">群を切り替えて話す</string>
+    <string name="app_falai">言語情報を1本出した</string>
+    <string name="app_duorenql">マルチメディアモード</string>
+    <string name="app_zhiduo">いち）支持を多くの人に同じルートWIFIトランシーバ、デフォルトのモードをチャットソフトウェア群</string>
+    <string name="app_anduo">2）録音ボタンを押して録音し、手を離して多くの人を送る</string>
+    <string name="a">3）ルートはラジオ機能を開き、開いていない2人のチャットしか使えない</string>
+    <string name="app_shuanlr">二人の会話/二人の会話</string>
+    <string name="app_duifangh">いち）相手があなたと必要ソフトを表示のLAN ipお互いに相手に伝えると、相手のIPを記入し、相手にもあなたのIPを記入</string>
+    <string name="app_drql">大勢の人の話</string>
+    <string name="app_jyip">私のLAN IP</string>
+    <string name="app_ipw">IP網：</string>
+    <string name="app_xhb">モデル：</string>
+    <string name="app_csb">メーカー：</string>
+    <string name="app_dqb">現在：</string>
+    <string name="app_fzip">IPをコピーする</string>
+    <string name="app_qxb">キャンセル</string>
+    <string name="app_fs">送信</string>
+    <string name="app_xtts">システムのヒント</string>
+    <string name="app_wflj">WIFI接続異常</string>
+    <string name="app_gbb">閉鎖</string>
+    <string name="app_wjyw">私のLANのIP :</string>
+    <string name="app_dfhexy">相手とあなたがこのページを開けて、頭の上でLAN ipお互いに相手に伝えると、相手のIPを記入し、相手にも記入してあなたのIP、押して切り替え！</string>
+    <string name="app_qhsrlt">ツインチャットを切り替えます</string>
+</resources>

@@ -1,0 +1,12 @@
+ext {
+    minSdkVersion = 15
+    targetSdkVersion = 22
+    targetNewSdkVersion = 28
+    compileSdkVersion = 28
+    buildToolsVersion = '28.0.0'
+    supportLibraryVersion = '28.+'
+    var = [
+            SV7 : "com.android.support:appcompat-v7:$supportLibraryVersion",
+            SV4 : "com.android.support:support-v4:$supportLibraryVersion",
+    ]
+} 

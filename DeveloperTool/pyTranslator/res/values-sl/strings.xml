@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">wifi v realnem času dialog</string>
+    <string name="app_sonshou">pošlji.</string>
+    <string name="app_anzhu">drži rekord</string>
+    <string name="app_shuanren">zamenjal dvojni</string>
+    <string name="app_juyuwang">ian op</string>
+    <string name="app_jiaochen">uporablja predavanja.</string>
+    <string name="app_genduo">več programske opreme</string>
+    <string name="app_qiehuan">predaja skupine.</string>
+    <string name="app_falai">en jezik in poslali informacije,</string>
+    <string name="app_duorenql">vzorec več ljudi.</string>
+    <string name="app_zhiduo">1) podpira več ljudi v isti poti wifi interkom, odpre privzeti način je skupina programske opreme.</string>
+    <string name="app_anduo">pritisnite in držite gumb za snemanje zvoka, 2) poslali več ljudi.</string>
+    <string name="a">3), ki je potreben za odpiranje poti za oddajanje se lahko uporablja le za funkcijo, ki ni odprl dvojno.</string>
+    <string name="app_shuanlr">dve osebi sta dialog klepet /</string>
+    <string name="app_duifangh">1) in zahteva, da se te programske opreme za prikaz lokalnega omrežja ip drug drugemu, da drug drugemu, izpolnite tudi v op, op, napolni si drug drugega.</string>
+    <string name="app_drql">več ljudi.</string>
+    <string name="app_jyip">- ian op</string>
+    <string name="app_ipw">op:</string>
+    <string name="app_xhb">tip:</string>
+    <string name="app_csb">proizvajalci:</string>
+    <string name="app_dqb">trenutno:</string>
+    <string name="app_fzip">izvod op</string>
+    <string name="app_qxb">preklic</string>
+    <string name="app_fs">pošiljanje</string>
+    <string name="app_xtts">sistem nasvet</string>
+    <string name="app_wflj">nenormalno wifi povezavo</string>
+    <string name="app_gbb">zaprtje</string>
+    <string name="app_wjyw">- ian IP:</string>
+    <string name="app_dfhexy">odpreti moraš drug drugega, in na to stran, z glavo, ian op drug drugemu, da drug drugemu, izpolnite tudi v op, op, vnesite drug drugega, potem pritisni stikalo!</string>
+    <string name="app_qhsrlt">predaja dvojno.</string>
+</resources>

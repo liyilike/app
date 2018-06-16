@@ -1,0 +1,32 @@
+<resources>
+      <string name="app_name">wi - fi - dialog</string>
+    <string name="app_sonshou">nu skickar</string>
+    <string name="app_anzhu">håll bandet</string>
+    <string name="app_shuanren">- dubbel</string>
+    <string name="app_juyuwang">ip -</string>
+    <string name="app_jiaochen">lektion.</string>
+    <string name="app_genduo">mer programvara</string>
+    <string name="app_qiehuan">byta grupp.</string>
+    <string name="app_falai">har skickat ett språk information</string>
+    <string name="app_duorenql">samtal har flera personer</string>
+    <string name="app_zhiduo">1) att stödja människor på samma rutt wifi - programvara med öppen standard, är en grupp samtal -</string>
+    <string name="app_anduo">2) att skicka in på skiva av flera personer!</string>
+    <string name="a">3) rutten öppnas för radio - och tv - inslag, som inte kan använda två öppna.</string>
+    <string name="app_shuanlr">en dialog mellan två personer prata /</string>
+    <string name="app_duifangh">1) programvara för att visa varandra, och du behöver ta lan ip säger till varandra, för att fylla i varandras ip, och den andra i din ip</string>
+    <string name="app_drql">om flera personer</string>
+    <string name="app_jyip">jag ip -</string>
+    <string name="app_ipw">ip - nät:</string>
+    <string name="app_xhb">typ:</string>
+    <string name="app_csb">tillverkare:</string>
+    <string name="app_dqb">nuvarande:</string>
+    <string name="app_fzip">en kopia av ip</string>
+    <string name="app_qxb">inställd</string>
+    <string name="app_fs">skicka</string>
+    <string name="app_xtts">system för snabb</string>
+    <string name="app_wflj">onormala wifi anslutning</string>
+    <string name="app_gbb">nära</string>
+    <string name="app_wjyw">jag är lan ip:</string>
+    <string name="app_dfhexy">varandra och du måste öppna den här sidan, ian ip - huvudet säger till varandra, för att fylla i varandras ip, och den andra i din ip, i enlighet med byte.</string>
+    <string name="app_qhsrlt">- en dubbel.</string>
+</resources>
