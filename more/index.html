@@ -28,10 +28,17 @@
                             <h4><a :href="item.url">{{item.name}}</a></h4>
                             <div class="prop"><span>{{item.size}}</span><span>{{item.version}}</span></div>
                             <div class="note">{{item.description}}</div>
-                            <div class="btn"><a :href="item.apk"><span>{{item.text}}</span></a></div>
+                            <div class="btn"><a :href="item.apk" onClick="showToast('哈哈啊哈')"><span>{{item.text}}</span></a></div>
                         </div>
                     </li>
                 </ul>
+
+                <script type="text/javascript">
+                    function showToast(text) {
+                        android.showToast(text);
+                    }
+                </script>
+
                 <script>
                     var example1 = new Vue({
                         el: "#example-1",
@@ -43,7 +50,7 @@
                                 apk: "https://liyilike.github.io/developer/update/apk/com.liyi.apps.flowerdog.apk",
                                 url: "http://shouji.baidu.com/software/22845951.html",
                                 size: "23.6MB",
-                                version: "版本：1.0.5", 
+                                version: "版本：1.0.5",
                                 text: "下载"
                             }, {
                                 name: "局域网监控",
