@@ -31,7 +31,9 @@
 
                             <div class="prop"><span>{{item.size}}</span><span>{{item.version}}</span></div>
                             <div class="note">{{item.description}}</div>
-                            <div class="btn"><a :href="item.apk"><span>{{item.text}}</span></a></div>
+
+                            <div class="btn" v-if="item.text =='下载'"><a :href="item.apk"><span>{{item.text}}</span></a></div>
+                            <div class="btn" v-else><a :href="item.apk" onClick="go(this)"><span>{{item.text}}</span></a></div>
 
                         </div>
                     </li>
@@ -44,7 +46,7 @@
                             console.log(".apk 不包含");
                             android.Intent(text);
                         }
-                       
+
                     }
                 </script>
 
