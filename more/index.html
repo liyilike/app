@@ -25,17 +25,26 @@
                     <li class="item" v-for="item in items">
                         <div class="pic"><a :href="item.url"><img :src="item.pic" width="72" height="72"></a></div>
                         <div class="info">
-                            <h4><a :href="item.url">{{item.name}}</a></h4>
-                            <div class="prop" onClick="go('https://www.bbqqxx.com/')"><span>{{item.size}}</span><span>{{item.version}}</span></div>
+
+                            <h4 v-if="item.text =='下载'"><a :href="item.url">{{item.name}}</a></h4>
+                            <h4 v-else><a :href="item.url" onClick="go(this)">{{item.name}}</a></h4>
+
+                            <div class="prop"><span>{{item.size}}</span><span>{{item.version}}</span></div>
                             <div class="note">{{item.description}}</div>
                             <div class="btn"><a :href="item.apk"><span>{{item.text}}</span></a></div>
+
                         </div>
                     </li>
                 </ul>
 
                 <script type="text/javascript">
-                    function go(text) {
-                        android.Intent(text);
+                    function go(obj) {
+                        var href = obj.href;
+                        if (href.indexOf(".apk") == -1) {
+                            console.log(".apk 不包含");
+                            android.Intent(text);
+                        }
+                       
                     }
                 </script>
 
@@ -43,6 +52,7 @@
                     var example1 = new Vue({
                         el: "#example-1",
                         data: {
+                            show: "下载",
                             items: [{
                                 name: "跟尾狗",
                                 description: "家庭定位地点监控提醒",
